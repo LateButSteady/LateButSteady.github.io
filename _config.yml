@@ -119,9 +119,9 @@ author:
   location         : "Plano, Texas, US"
   email            : "jaewoong.kim.29@gmail.com"
   links:
-    - label: "Email"
+    - label: "jaewoong.kim.29@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      #url: "mailto:your.name@email.com"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/jaewoong-kim/"
