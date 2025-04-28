@@ -19,7 +19,11 @@ I took charge of one full day of my guests from picking up, hanging out, and dri
 
 ![메인페이지2](/images/2025-04-20-Airbnb-Tour-Guide/메인페이지2.png)
 
-What's more, I thoroughly enjoyed the program. Since the tour was 8 to 10 hours long, it gave me a fantastic opportunity for free international English speaking practice, and I also made a lot of global friends. After participating in this program for two years, I felt a real sense of freedom in my English conversations.
+What's more, I thoroughly enjoyed the program. Since the tour was 8 to 10 hours long, it gave me a fantastic opportunity for free international English speaking practice, and I also made a lot of global friends. 
+
+![메인페이지3](/images/2025-04-20-Airbnb-Tour-Guide/메인페이지3.png)
+
+After participating in this program for two years, I felt a real sense of freedom in my English conversations. It surely helps my current life in Texas.
 
 Since moving to Dallas, Texas, I've been dreaming about launching another tour program. I'm thinking of getting a pickup truck so I can take my guests for a drive and then have a cooking party with a campfire in a nice, quiet wood. It's going to be a really exciting chapter in my life.
 
