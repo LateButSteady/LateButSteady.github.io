@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "LateButSteady Blog"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "LateButSteady"
+title_separator          : "|"
+subtitle                 : "AI Tech Enabler" # site tagline that appears below site title in masthead
 name                     : "LateButSteady"
 description              : ""
 url                      : "https://github.com/LateButSteady/LateButSteady.github.io/blob/master/assets/images/profile_tall.jpg"
@@ -28,7 +28,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_180x180.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true #, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -315,3 +315,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
