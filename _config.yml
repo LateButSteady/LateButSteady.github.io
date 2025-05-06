@@ -21,7 +21,7 @@ title                    : "LateButSteady"
 title_separator          : "|"
 subtitle                 : "AI Tech Enabler" # site tagline that appears below site title in masthead
 name                     : "LateButSteady"
-description              : ""
+description              : "LateButSteady Github blog that about AI projects and Life in USA"
 url                      : "https://github.com/LateButSteady/LateButSteady.github.io/blob/master/assets/images/profile_tall.jpg"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -132,24 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      # url:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      # url:
-#    - label: "GitLab"
-#      icon: "fab fa-fw fa-gitlab"
-#      # url:
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-#      # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LateButSteady"
 
 
 # Reading Files
@@ -219,7 +204,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bogota # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -282,16 +267,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
